@@ -37,6 +37,8 @@ TERRAFORM_TOKEN
 - `terraform/` directory hold the Terraform code 
 - `scripts/` directory holds the scripts that generate config.yml files
 
+
+
 <!-- The following are reference urls -->
 [1]: https://circleci.com/blog/building-cicd-pipelines-using-dynamic-config/
 [2]: https://circleci.com/blog/our-cloud-platform-your-compute-introducing-the-circleci-runner/
